@@ -32,7 +32,7 @@ body {
   /* Updated background image: replaced local image.jpeg with an external Valentine-themed image */
   background: 
         linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), /* Darker overlay */
-        url('https://i.ibb.co/k6xD4nM/New-Project.jpg'); /* Background image */
+        url('image.jpeg'); /* Background image */
   background-size: cover; /* Cover the entire page */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Prevent tiling */}
